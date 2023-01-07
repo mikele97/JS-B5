@@ -195,7 +195,7 @@ getEle('taxCalc').onclick = function () {
 }
 
 
-/* 4. Tính tiền cáp */
+// BÀI 4: TÍNH TIỀN CÁP //
 // Hàm ẩn/hiện cho option "Doanh Nghiệp"
 function switchType() {
     let customerType = getEle('customerType').value;
