@@ -272,5 +272,5 @@ getEle('ChannelBill').onclick = function () {
     }
 
     // output
-    getEle('totalBill').innerHTML = finalBill;
+    getEle('sumBill').innerHTML = finalBill;
 }
